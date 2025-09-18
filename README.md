@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=BRO_O's%20GITHUB&fontSize=90&stroke=000000&theme=default)
   
 ## 👀 About Me
-  #### :raising_hand: I am a DevOps Engineer from South Korea.<br/>
-  #### :fire: I aim to become a Storage System DevOps Engineer.<br/>
+  #### :raising_hand: I am a Software Engineer from South Korea.<br/>
+  #### :fire: I aim to become a Cloud-native DevOps Engineer.<br/>
   #### :mortar_board: Bachelor of Aerospace and Software Engineering, Gyeongsang National University(GNU)
   <br/>
   <br/>
